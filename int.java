@@ -1,4 +1,3 @@
-# guvi7
 import java.util.Scanner;
 class Ideone
 {
